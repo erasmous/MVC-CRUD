@@ -1,9 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MVC_CRUD.Data;
 using MVC_CRUD.Models;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
 
 namespace MVC_CRUD.Controllers
 {
